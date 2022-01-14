@@ -1,7 +1,10 @@
 🌺 Aloah! 💮
 
-![image](https://user-images.githubusercontent.com/86596649/149590831-9e6b4141-3183-4906-84fe-e773045a7eb4.png)
- I am a Front End Developer junior
+🖥️ I am a Front End Developer junior 🚀
+
+🌏 My hobbies are ♟, 🚲 and 🍃 
+
+📤  You can text me at antonioplatania92@gmail.com 📥
 
 <!--
 **YorusT/YorusT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
