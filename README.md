@@ -1,4 +1,7 @@
-### Hi there 👋
+🌺 Aloah! 💮
+
+![image](https://user-images.githubusercontent.com/86596649/149590831-9e6b4141-3183-4906-84fe-e773045a7eb4.png)
+ I am a Front End Developer junior
 
 <!--
 **YorusT/YorusT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
